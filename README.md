@@ -28,22 +28,22 @@ Made by Bastien Brogliato--Martin.
 ## Project Team
 
 - **Project Coordinator:**
-Bastien Brogliato--Martin
+  - Bastien Brogliato--Martin
 
 - **Developers:**
-Nils Desbois-Renaudin
-Anne Regennass
+  - Nils Desbois-Renaudin
+  - Anne Regennass
 
 - **Concept Artists & Graphic Designers:**
-Anthony Ruberti
-Garance Baylac
+  - Anthony Ruberti
+  - Garance Baylac
 
 - **Writers / Narrative Designers:**
-Matthieu Lejosne
+  - Matthieu Lejosne
 
 - **Composers & Musicians:**
-Gael Constant
-Tom Loisil
+  - Gael Constant
+  - Tom Loisil
 
 ## ⚠️ Notice Regarding Repository Content:
 
@@ -57,7 +57,7 @@ To protect our original creations, game design, and intellectual property from a
 <a id="lang-fr"></a>
 # 🇫🇷 Français
 
-# Descritpion du projet
+# Description du projet
 
 **Lagrandia** est un projet ambitieux de jeu de simulation de vie en **monde ouvert 3D, actuellement en cours de développement**. Inspiré d'entre autres *The Legend of Zelda: Breath of the wild*, *Fantasy Life* et *Valheim*, le coeur de notre jeu tourne autour de **l'exploration d'un monde riche**, d'un **système de métier** complexe, influençant votre manière de combattre et de récolter des ressources, et de la **reconstruction de votre village**, en entretenant des relations riches avec ses habitants.
 
@@ -78,22 +78,22 @@ Réalisée par Bastien Brogliato--Martin.
 ## Equipe de Projet
 
 - **Coordinateur de projet :**
-Bastien Brogliato--Martin
+  - Bastien Brogliato--Martin
 
 - **Developpeurs :**
-Nils Desbois-Renaudin
-Anne Regennass
+  - Nils Desbois-Renaudin
+  - Anne Regennass
 
 - **Concept artistes et graphistes :**
-Anthony Ruberti
-Garance Baylac
+  - Anthony Ruberti
+  - Garance Baylac
 
 - **Scénaristes :** 
-Matthieu Lejosne
+  - Matthieu Lejosne
 
 - **Compositeurs des musiques et musiciens :**
-Gael Constant
-Tom Loisil
+  - Gael Constant
+  - Tom Loisil
 
 ## ⚠️ Note concernant le contenu du dépôt :
 
